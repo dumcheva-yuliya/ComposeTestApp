@@ -1,10 +1,9 @@
-package com.newreality.composetestapp.ui
+package com.newreality.composetestapp.presentation.ui.webviewscreen
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.newreality.composetestapp.BottomBarScreen
 
 @Composable
 fun BottomNavGraph(navController: NavHostController) {

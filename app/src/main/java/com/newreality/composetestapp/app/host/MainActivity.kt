@@ -1,4 +1,4 @@
-package com.newreality.composetestapp
+package com.newreality.composetestapp.app.host
 
 import android.os.Bundle
 import android.view.ViewGroup
@@ -9,8 +9,8 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.viewinterop.AndroidView
-import com.newreality.composetestapp.ui.MainScreen
-import com.newreality.composetestapp.ui.theme.ComposeTestAppTheme
+import com.newreality.composetestapp.presentation.theme.ComposeTestAppTheme
+import com.newreality.composetestapp.presentation.ui.webviewscreen.WebViewScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
                 darkTheme = true
             ) {
 //                WebView()
-                MainScreen()
+                WebViewScreen()
             }
         }
     }

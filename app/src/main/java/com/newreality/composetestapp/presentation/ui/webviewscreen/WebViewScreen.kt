@@ -1,4 +1,4 @@
-package com.newreality.composetestapp.ui
+package com.newreality.composetestapp.presentation.ui.webviewscreen
 
 import android.annotation.SuppressLint
 import android.content.res.Configuration
@@ -30,21 +30,20 @@ import androidx.compose.ui.viewinterop.AndroidView
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.newreality.composetestapp.BottomBarScreen
 import com.newreality.composetestapp.R
-import com.newreality.composetestapp.ui.theme.ComposeTestAppTheme
+import com.newreality.composetestapp.presentation.theme.ComposeTestAppTheme
 
 @Preview
 @Preview(uiMode = Configuration.UI_MODE_NIGHT_YES)
 @Composable
-fun MainScreenPreview() {
+fun WebViewScreenPreview() {
     ComposeTestAppTheme {
-        MainScreen()
+        WebViewScreen()
     }
 }
 
 @Composable
-fun MainScreen() {
+fun WebViewScreen() {
     val viewModel = WebViewModel()
 
     val navController = rememberNavController()

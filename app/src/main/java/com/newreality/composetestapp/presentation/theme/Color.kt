@@ -1,4 +1,4 @@
-package com.newreality.composetestapp.ui.theme
+package com.newreality.composetestapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

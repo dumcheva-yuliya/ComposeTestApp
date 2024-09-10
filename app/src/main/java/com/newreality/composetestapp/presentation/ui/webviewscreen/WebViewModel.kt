@@ -1,4 +1,4 @@
-package com.newreality.composetestapp.ui
+package com.newreality.composetestapp.presentation.ui.webviewscreen
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf

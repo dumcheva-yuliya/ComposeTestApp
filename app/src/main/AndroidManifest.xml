@@ -16,7 +16,7 @@
         android:theme="@style/Theme.ComposeTestApp"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".app.host.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.ComposeTestApp">
             <intent-filter>

@@ -1,4 +1,4 @@
-package com.newreality.composetestapp.ui
+package com.newreality.composetestapp.presentation.ui.webviewscreen
 
 import com.newreality.wallet.constants.Constants
 import com.newreality.wallet.constants.accountsUrl

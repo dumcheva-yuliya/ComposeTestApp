@@ -1,6 +1,6 @@
-package com.newreality.composetestapp
+package com.newreality.composetestapp.presentation.ui.webviewscreen
 
-import com.newreality.composetestapp.ui.WebViewState
+import com.newreality.composetestapp.R
 
 sealed class BottomBarScreen(
     val icon: Int,
