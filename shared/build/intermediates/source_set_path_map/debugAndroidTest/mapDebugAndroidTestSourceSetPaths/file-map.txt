@@ -1,0 +1,5 @@
+com.newreality.shared.test.shared-androidTest-0 D:\StudioProjects\ComposeTestApp\shared\build\generated\res\resValues\androidTest\debug
+com.newreality.shared.test.shared-mergeDebugAndroidTestResources-1 D:\StudioProjects\ComposeTestApp\shared\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.newreality.shared.test.shared-mergeDebugAndroidTestResources-2 D:\StudioProjects\ComposeTestApp\shared\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.newreality.shared.test.shared-debugAndroidTest-3 D:\StudioProjects\ComposeTestApp\shared\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.newreality.shared.test.shared-debug-4 D:\StudioProjects\ComposeTestApp\shared\build\intermediates\packaged_res\debug\packageDebugResources
