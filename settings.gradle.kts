@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Compose Test App"
-include(":app")
- 
+include(":androidApp")
+include(":shared")

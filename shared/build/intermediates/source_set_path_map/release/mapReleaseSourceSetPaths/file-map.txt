@@ -1,0 +1,8 @@
+com.newreality.shared-pngs-0 D:\StudioProjects\ComposeTestApp\shared\build\generated\res\pngs\release
+com.newreality.shared-resValues-1 D:\StudioProjects\ComposeTestApp\shared\build\generated\res\resValues\release
+com.newreality.shared-mergeReleaseResources-2 D:\StudioProjects\ComposeTestApp\shared\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.newreality.shared-mergeReleaseResources-3 D:\StudioProjects\ComposeTestApp\shared\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.newreality.shared-release-4 D:\StudioProjects\ComposeTestApp\shared\build\intermediates\merged_res\release\mergeReleaseResources
+com.newreality.shared-androidMain-5 D:\StudioProjects\ComposeTestApp\shared\src\androidMain\res
+com.newreality.shared-main-6 D:\StudioProjects\ComposeTestApp\shared\src\main\res
+com.newreality.shared-release-7 D:\StudioProjects\ComposeTestApp\shared\src\release\res
